@@ -6,4 +6,8 @@ Requires (in PATH):
    - Samtools
    - PicardTools
    - MACS2 (or Homer)
+   
+For R scripts:
+   - ggplot2
+   - reshape2
 
